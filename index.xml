@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>the website title shown on the tab</title>
+    <link>https://kris-liheng.github.io/</link>
+    <description>Recent content on the website title shown on the tab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Kris Li 2022</copyright><atom:link href="https://kris-liheng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://kris-liheng.github.io/about/</link>
+      <pubDate>Sun, 17 Jul 2022 11:07:35 +0800</pubDate>
+      
+      <guid>https://kris-liheng.github.io/about/</guid>
+      <description>Hello world
+Hello world It sounds good.
+Hello import lib def main(): pass </description>
+    </item>
+    
+  </channel>
+</rss>
